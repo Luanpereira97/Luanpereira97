@@ -21,7 +21,7 @@
 
 
 <div class="contact">
-    <p>📫 Contato: [Seu e-mail] | [Seu LinkedIn]</p>
+    <p>📫 Contato: luandenk25@mail.com | (21)9 7745-8047 </p>
 </div>
 
 </body>
