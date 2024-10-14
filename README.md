@@ -1,17 +1,28 @@
-<Html> 
-<body>
- <head> 
- <h1> Minha apresentação</h1>
+<!DOCTYPE html>
 </head>
-<br>
- 👋 Oi, meu nome é Luan <br>
- 👀 Procurando uma oportunidade na área de TI <br>
- 💞️ Gosto muito de Tecnologia .<br>
- 📫 Moro em Quintino Bocaiuva, RJ - Brasil <br>
- ⚡ Fun fact: Gosto de aprender tudo a todo tempo. <br>
-<br>
-<p>Meu nome é Luan, tenho  27 anos e estou no segundo periodo de Tecnologia em Logística. Atualmente, sou estagiário de logística em uma empresa de comidas congeladas. 
-  Anteriormente, eu trabalhava no setor de faturamento em uma distribuidora de Livros. </p>
-<br> 
+<body>
+
+<h1>Minha Apresentação</h1>
+
+<div class="highlight">
+    <h2>🚀 Descubra o Futuro da Tecnologia com Meu Perfil!</h2>
+    <p>🌟 Estou Luan, um entusiasta de tecnologia pronto para transformar experiências no setor de TI.</p>
+    <p>🔍 Com sólida formação em Tecnologia em Logística e experiência prática em estágios, estou preparado para enfrentar desafios e contribuir para a inovação.</p>
+</div>
+
+<div class="highlight">
+    <h2>📣 Minhas Habilidades e Experiências</h2>
+    <p>💼 Atualmente sou estagiário de logística em uma empresa de comidas congeladas, onde desenvolvo habilidades em gestão e análise de processos.</p>
+    <p>📚 .</p>
+</div>
+
+<h2>🌍 Estou em Busca de Oportunidades na Área de TI!</h2>
+<p>🔗 Estou animado para trazer minha experiência e paixão por tecnologia para uma equipe inovadora. Vamos juntos construir soluções que façam a diferença!</p>
+
+
+<div class="contact">
+    <p>📫 Contato: [Seu e-mail] | [Seu LinkedIn]</p>
+</div>
+
 </body>
 </html>
